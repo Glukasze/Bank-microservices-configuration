@@ -5,4 +5,4 @@ cards:
   message: "Welcome to Cards Service on QA environment"
   contactDetails:
     name: "Gracjan Lukaszewicz - Developer"
-    email: "gracjan.luk@gmail.com"
+    email: "{cipher}af111bcb3cc5c7952a2c1eacd0e6cb47de8a6ff490efe522f1b1b7b7a4d476420e2baa97c2926513acd41693ace6d818"
