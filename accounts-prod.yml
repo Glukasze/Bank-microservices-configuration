@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Accounts Service on Productiom environment"
+  message: "Welcome to Accounts Service on Productiom webhook environment"
   contactDetails:
     name: "Gracjan Lukaszewicz - Developer"
     email: "{cipher}af111bcb3cc5c7952a2c1eacd0e6cb47de8a6ff490efe522f1b1b7b7a4d476420e2baa97c2926513acd41693ace6d818"
